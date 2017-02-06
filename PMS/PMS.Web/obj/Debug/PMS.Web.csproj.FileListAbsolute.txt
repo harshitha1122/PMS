@@ -1,0 +1,102 @@
+C:\Project\Backup\11-17-2016\PMS\PMS.Web\bin\PMS.Web.dll.config
+C:\Project\Backup\11-17-2016\PMS\PMS.Web\bin\PMS.Web.dll
+C:\Project\Backup\11-17-2016\PMS\PMS.Web\bin\PMS.Web.pdb
+C:\Project\Backup\11-17-2016\PMS\PMS.Web\bin\Antlr3.Runtime.dll
+C:\Project\Backup\11-17-2016\PMS\PMS.Web\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Project\Backup\11-17-2016\PMS\PMS.Web\bin\AspNet.ScriptManager.jQuery.dll
+C:\Project\Backup\11-17-2016\PMS\PMS.Web\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Project\Backup\11-17-2016\PMS\PMS.Web\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Project\Backup\11-17-2016\PMS\PMS.Web\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Project\Backup\11-17-2016\PMS\PMS.Web\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Project\Backup\11-17-2016\PMS\PMS.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Project\Backup\11-17-2016\PMS\PMS.Web\bin\Newtonsoft.Json.dll
+C:\Project\Backup\11-17-2016\PMS\PMS.Web\bin\System.Web.Optimization.dll
+C:\Project\Backup\11-17-2016\PMS\PMS.Web\bin\WebGrease.dll
+C:\Project\Backup\11-17-2016\PMS\PMS.Web\bin\System.Web.Optimization.xml
+C:\Project\Backup\11-17-2016\PMS\PMS.Web\bin\Antlr3.Runtime.pdb
+C:\Project\Backup\11-17-2016\PMS\PMS.Web\bin\Newtonsoft.Json.xml
+C:\Project\Backup\11-17-2016\PMS\PMS.Web\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Project\Backup\11-17-2016\PMS\PMS.Web\obj\Debug\PMS.Web.csprojResolveAssemblyReference.cache
+C:\Project\Backup\11-17-2016\PMS\PMS.Web\obj\Debug\PMS.Web.dll
+C:\Project\Backup\11-17-2016\PMS\PMS.Web\obj\Debug\PMS.Web.pdb
+D:\Project\Backup\12-7-2016\PMS\PMS.Web\bin\PMS.Web.dll.config
+D:\Project\Backup\12-7-2016\PMS\PMS.Web\bin\PMS.Web.dll
+D:\Project\Backup\12-7-2016\PMS\PMS.Web\bin\PMS.Web.pdb
+D:\Project\Backup\12-7-2016\PMS\PMS.Web\bin\Antlr3.Runtime.dll
+D:\Project\Backup\12-7-2016\PMS\PMS.Web\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Project\Backup\12-7-2016\PMS\PMS.Web\bin\AspNet.ScriptManager.jQuery.dll
+D:\Project\Backup\12-7-2016\PMS\PMS.Web\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Project\Backup\12-7-2016\PMS\PMS.Web\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Project\Backup\12-7-2016\PMS\PMS.Web\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Project\Backup\12-7-2016\PMS\PMS.Web\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Project\Backup\12-7-2016\PMS\PMS.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\Project\Backup\12-7-2016\PMS\PMS.Web\bin\Newtonsoft.Json.dll
+D:\Project\Backup\12-7-2016\PMS\PMS.Web\bin\PMS.BAL.dll
+D:\Project\Backup\12-7-2016\PMS\PMS.Web\bin\PMS.Core.dll
+D:\Project\Backup\12-7-2016\PMS\PMS.Web\bin\System.Web.Optimization.dll
+D:\Project\Backup\12-7-2016\PMS\PMS.Web\bin\WebGrease.dll
+D:\Project\Backup\12-7-2016\PMS\PMS.Web\bin\PMS.DAL.dll
+D:\Project\Backup\12-7-2016\PMS\PMS.Web\bin\PMS.BAL.pdb
+D:\Project\Backup\12-7-2016\PMS\PMS.Web\bin\PMS.Core.pdb
+D:\Project\Backup\12-7-2016\PMS\PMS.Web\bin\System.Web.Optimization.xml
+D:\Project\Backup\12-7-2016\PMS\PMS.Web\bin\Antlr3.Runtime.pdb
+D:\Project\Backup\12-7-2016\PMS\PMS.Web\bin\Newtonsoft.Json.xml
+D:\Project\Backup\12-7-2016\PMS\PMS.Web\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Project\Backup\12-7-2016\PMS\PMS.Web\bin\PMS.DAL.pdb
+D:\Project\Backup\12-7-2016\PMS\PMS.Web\obj\Debug\PMS.Web.csprojResolveAssemblyReference.cache
+D:\Project\Backup\12-7-2016\PMS\PMS.Web\obj\Debug\PMS.Web.dll
+D:\Project\Backup\12-7-2016\PMS\PMS.Web\obj\Debug\PMS.Web.pdb
+C:\Project\PMS\PMS.Web\bin\PMS.Web.dll.config
+C:\Project\PMS\PMS.Web\bin\PMS.Web.dll
+C:\Project\PMS\PMS.Web\bin\PMS.Web.pdb
+C:\Project\PMS\PMS.Web\bin\Antlr3.Runtime.dll
+C:\Project\PMS\PMS.Web\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Project\PMS\PMS.Web\bin\AspNet.ScriptManager.jQuery.dll
+C:\Project\PMS\PMS.Web\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Project\PMS\PMS.Web\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Project\PMS\PMS.Web\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Project\PMS\PMS.Web\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Project\PMS\PMS.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Project\PMS\PMS.Web\bin\Newtonsoft.Json.dll
+C:\Project\PMS\PMS.Web\bin\PMS.BAL.dll
+C:\Project\PMS\PMS.Web\bin\PMS.Core.dll
+C:\Project\PMS\PMS.Web\bin\System.Web.Optimization.dll
+C:\Project\PMS\PMS.Web\bin\WebGrease.dll
+C:\Project\PMS\PMS.Web\bin\PMS.DAL.dll
+C:\Project\PMS\PMS.Web\bin\PMS.BAL.pdb
+C:\Project\PMS\PMS.Web\bin\PMS.Core.pdb
+C:\Project\PMS\PMS.Web\bin\System.Web.Optimization.xml
+C:\Project\PMS\PMS.Web\bin\Antlr3.Runtime.pdb
+C:\Project\PMS\PMS.Web\bin\Newtonsoft.Json.xml
+C:\Project\PMS\PMS.Web\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Project\PMS\PMS.Web\bin\PMS.DAL.pdb
+C:\Project\PMS\PMS.Web\obj\Debug\PMS.Web.csprojResolveAssemblyReference.cache
+C:\Project\PMS\PMS.Web\obj\Debug\PMS.Web.dll
+C:\Project\PMS\PMS.Web\obj\Debug\PMS.Web.pdb
+D:\Project\Backup\12-9-2016\Pages done using Ado\PMS\PMS.Web\bin\PMS.Web.dll.config
+D:\Project\Backup\12-9-2016\Pages done using Ado\PMS\PMS.Web\bin\PMS.Web.dll
+D:\Project\Backup\12-9-2016\Pages done using Ado\PMS\PMS.Web\bin\PMS.Web.pdb
+D:\Project\Backup\12-9-2016\Pages done using Ado\PMS\PMS.Web\bin\Antlr3.Runtime.dll
+D:\Project\Backup\12-9-2016\Pages done using Ado\PMS\PMS.Web\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Project\Backup\12-9-2016\Pages done using Ado\PMS\PMS.Web\bin\AspNet.ScriptManager.jQuery.dll
+D:\Project\Backup\12-9-2016\Pages done using Ado\PMS\PMS.Web\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Project\Backup\12-9-2016\Pages done using Ado\PMS\PMS.Web\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Project\Backup\12-9-2016\Pages done using Ado\PMS\PMS.Web\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Project\Backup\12-9-2016\Pages done using Ado\PMS\PMS.Web\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Project\Backup\12-9-2016\Pages done using Ado\PMS\PMS.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\Project\Backup\12-9-2016\Pages done using Ado\PMS\PMS.Web\bin\Newtonsoft.Json.dll
+D:\Project\Backup\12-9-2016\Pages done using Ado\PMS\PMS.Web\bin\PMS.BAL.dll
+D:\Project\Backup\12-9-2016\Pages done using Ado\PMS\PMS.Web\bin\PMS.Core.dll
+D:\Project\Backup\12-9-2016\Pages done using Ado\PMS\PMS.Web\bin\System.Web.Optimization.dll
+D:\Project\Backup\12-9-2016\Pages done using Ado\PMS\PMS.Web\bin\WebGrease.dll
+D:\Project\Backup\12-9-2016\Pages done using Ado\PMS\PMS.Web\bin\PMS.DAL.dll
+D:\Project\Backup\12-9-2016\Pages done using Ado\PMS\PMS.Web\bin\PMS.BAL.pdb
+D:\Project\Backup\12-9-2016\Pages done using Ado\PMS\PMS.Web\bin\PMS.Core.pdb
+D:\Project\Backup\12-9-2016\Pages done using Ado\PMS\PMS.Web\bin\System.Web.Optimization.xml
+D:\Project\Backup\12-9-2016\Pages done using Ado\PMS\PMS.Web\bin\Antlr3.Runtime.pdb
+D:\Project\Backup\12-9-2016\Pages done using Ado\PMS\PMS.Web\bin\Newtonsoft.Json.xml
+D:\Project\Backup\12-9-2016\Pages done using Ado\PMS\PMS.Web\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Project\Backup\12-9-2016\Pages done using Ado\PMS\PMS.Web\bin\PMS.DAL.pdb
+D:\Project\Backup\12-9-2016\Pages done using Ado\PMS\PMS.Web\obj\Debug\PMS.Web.csprojResolveAssemblyReference.cache
+D:\Project\Backup\12-9-2016\Pages done using Ado\PMS\PMS.Web\obj\Debug\PMS.Web.dll
+D:\Project\Backup\12-9-2016\Pages done using Ado\PMS\PMS.Web\obj\Debug\PMS.Web.pdb

@@ -1,0 +1,114 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="PMS.Web.SiteMaster" %>
+
+<!DOCTYPE html>
+
+<html lang="en">
+<head runat="server">
+
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title><%: Page.Title %> - My ASP.NET Application</title>
+
+    <asp:PlaceHolder runat="server">
+        <%: Scripts.Render("~/bundles/modernizr") %>
+    </asp:PlaceHolder>
+
+    <webopt:BundleReference runat="server" Path="~/Content/css" />
+    <link href="Content/MainPMS.css" rel="stylesheet" />
+    <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+
+    <style>
+        /* Set height of the grid so .sidenav can be 100% (adjust if needed) */
+        .row.content {
+            height: 1500px;
+        }
+
+        /* Set gray background color and 100% height */
+        .sidenav {
+            background-color: #f1f1f1;
+            height: 100%;
+        }
+
+        /* Set black background color, white text and some padding */
+        footer {
+            background-color: #555;
+            color: white;
+            padding: 15px;
+        }
+
+        /* On small screens, set height to 'auto' for sidenav and grid */
+        @media screen and (max-width: 767px) {
+            .sidenav {
+                height: auto;
+                padding: 15px;
+            }
+
+            .row.content {
+                height: auto;
+            }
+        }
+    </style>
+
+</head>
+<body>
+    <form runat="server">
+        <asp:ScriptManager runat="server">
+            <Scripts>
+                <asp:ScriptReference Name="MsAjaxBundle" />
+                <asp:ScriptReference Name="jquery" />
+                <asp:ScriptReference Name="bootstrap" />
+                <asp:ScriptReference Name="respond" />
+                <asp:ScriptReference Name="WebForms.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebForms.js" />
+                <asp:ScriptReference Name="WebUIValidation.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebUIValidation.js" />
+                <asp:ScriptReference Name="MenuStandards.js" Assembly="System.Web" Path="~/Scripts/WebForms/MenuStandards.js" />
+                <asp:ScriptReference Name="GridView.js" Assembly="System.Web" Path="~/Scripts/WebForms/GridView.js" />
+                <asp:ScriptReference Name="DetailsView.js" Assembly="System.Web" Path="~/Scripts/WebForms/DetailsView.js" />
+                <asp:ScriptReference Name="TreeView.js" Assembly="System.Web" Path="~/Scripts/WebForms/TreeView.js" />
+                <asp:ScriptReference Name="WebParts.js" Assembly="System.Web" Path="~/Scripts/WebForms/WebParts.js" />
+                <asp:ScriptReference Name="Focus.js" Assembly="System.Web" Path="~/Scripts/WebForms/Focus.js" />
+                <asp:ScriptReference Name="WebFormsBundle" />
+            </Scripts>
+        </asp:ScriptManager>
+
+
+
+
+        <div class="container-fluid">
+            <div class="row content">
+                <div class="col-sm-2 sidenav">
+                    <h4><small> Welcome Sharad! </small></h4>
+
+                    <ul class="nav nav-pills nav-stacked">
+                        <li class="active"><a runat="server" href="~/Medicine.aspx">Medicine</a></li>
+                        <li><a runat="server" href="~/Login.aspx">Login</a></li>
+                         <li><a runat="server" href="~/MedicineQuantity.aspx">MedicineQuantity</a></li>
+                        <li><a runat="server" href="~/Customer.aspx">Customer</a></li>
+                        <li><a runat="server" href="~/Roles.aspx">Roles</a></li>
+                        <li><a runat="server" href="~/PageToRole.aspx">Page To Role</a></li>
+                        <li><a runat="server" href="~/UserDetails.aspx">User Details</a></li>
+                        <li><a runat="server" href="~/Users.aspx">Users</a></li>
+                         <li><a runat="server" href="~/Page.aspx">Page</a></li>
+                         <li><a runat="server" href="~/MedicineType.aspx">MedicineType</a></li>
+                         <li><a runat="server" href="~/UnitType.aspx">UnitType</a></li>
+                    </ul>
+
+                </div>
+
+                <div class="col-sm-10">
+                    <h3>Pharmacy Management System</h3>
+                    <hr>
+                   
+                        <asp:ContentPlaceHolder ID="MainContent" runat="server">
+                        </asp:ContentPlaceHolder>
+                  
+                </div>
+            </div>
+        </div>
+
+        <footer class="container-fluid" >
+            <p>Footer Text</p>
+        </footer>
+
+    </form>
+</body>
+</html>
